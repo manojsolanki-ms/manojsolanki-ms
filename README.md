@@ -94,6 +94,23 @@ PhD Scholar | Department of Mathematics | IIT Guwahati
 | Scientific Machine Learning | PINNs for PDEs |
 | Fractional PDEs | L1 and L1-2 numerical schemes |
 | Computational Finance | Black–Scholes equation solvers |
-| High Performance Computing | Parallel implementations using MPI/OpenMP |
 
 ---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=manojsolanki-ms&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojsolanki-ms&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojsolanki-ms&theme=tokyonight"/>
+
+</p>
