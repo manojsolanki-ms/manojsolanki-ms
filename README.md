@@ -47,8 +47,6 @@ PhD Scholar | Department of Mathematics | IIT Guwahati
 - Compact Finite Difference Methods
 - Finite Element Methods
 - Scientific Machine Learning
-- Physics-Informed Neural Networks
-- High Performance Computing
 
 💡 Passionate about developing high-order numerical algorithms for solving ordinary and partial differential equations with applications in computational science and engineering.
 
@@ -62,9 +60,6 @@ PhD Scholar | Department of Mathematics | IIT Guwahati
 - Finite Element Methods
 - Fractional Differential Equations
 - Scientific Machine Learning
-- PINNs
-- Parallel Computing
-- Computational Finance
 
 ---
 
